@@ -1,0 +1,10 @@
+EtherPEG for Mac OS X uses libpcap, an open-source packet capture library 
+that is present in the Mac OS X 10.1.3 install.  
+
+Unfortunately, pcap's header files are not part of the standard Mac OS X
+Developer package.  
+
+You can get them from http://www.tcpdump.org, or from 
+http://www.opensource.apple.com/projects/darwin/1.4/source/other/libpcap-0.6.2-2.1.tar.gz
+(all EtherPEG needs is "pcap.h", which you can simply copy into the 
+source directory).

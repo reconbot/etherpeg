@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist SYSTEM "file://localhost/System/Library/DTDs/PropertyList.dtd">
+<plist version="0.9">
+<dict>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleIdentifier</key>
+    <string>org.etherpeg.etherpeg</string>
+    <key>CFBundleName</key>
+    <string>EtherPEG</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleSignature</key>
+    <string>ePEG</string>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>English</string>
+    <key>LSPrefersCarbon</key>
+    <true/>
+    <key>CFBundleVersion</key>
+    <string>1.3a1</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.3a1 (9march2002)</string>
+    <key>CFBundleLongVersionString</key>
+    <string>1.3a1</string>
+    <key>CFBundleIconFile</key>
+    <string>128</string>
+    <key>NSHumanReadableCopyright</key>
+    <string>www.etherpeg.org</string>
+    <key>CSResourcesFileMapped</key>
+    <true/>
+</dict>
+</plist>
