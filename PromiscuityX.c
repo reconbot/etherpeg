@@ -6,7 +6,7 @@
 
 static pcap_t *pcap_session = NULL;
 
-#define INTERFACE	"en0"
+#define INTERFACE	"en1"
 
 void initPromiscuity(void)
 {
